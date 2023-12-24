@@ -1,0 +1,10 @@
+{
+  "name": "oopscord.js-cli",
+  "version": "1.0.0",
+  "description": "A CLI App for OOPscord.js",
+  "main": "index.js",
+  "repository": "https://github.com/Team-ThinkCord/oopscord.js-cli.git",
+  "author": "Sekinpl, Icetang0123, andjsrk, sujang958, MinkoMK",
+  "license": "Apache-2.0",
+  "private": false
+}
